@@ -1,0 +1,21 @@
+.card-body {
+    background-image: url("img/formbg.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+body {
+    background-image: url("img/homepage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.error {
+    color: red;
+    margin: 0px;
+    text-align: center;
+}
